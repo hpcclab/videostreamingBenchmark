@@ -5,7 +5,7 @@ Considering the widespread use of video format and convenience of video transcod
   ✦codec: H.264/AVC
   ✦resolution: 720P
   ✦frame rate: 30
-  ✦bite rate: 
+  ✦bite rate: average 4500kbps
   
 The benchmark contains:
 
