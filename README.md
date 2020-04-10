@@ -13,4 +13,4 @@ The benchmark contains:
   
   [2] Original video splitted into two seconds segments (2.40GB) | [Google Drive](https://drive.google.com/drive/folders/1MaEAN8TjuOhv9mH33j5L7nibxppriadQ?usp=sharing)
   
-  [3] Standard video splitted into two seconds segments (3.10GB) | [Google Drive](https://drive.google.com/drive/folders/1KhsxZtC22L-EHoeXmsdmWpkuNZpmS-pL?usp=sharing)
+  [3] Video dataset uniformly formatted and splitted into two seconds segments (3.10GB) | [Google Drive](https://drive.google.com/drive/folders/1KhsxZtC22L-EHoeXmsdmWpkuNZpmS-pL?usp=sharing)
