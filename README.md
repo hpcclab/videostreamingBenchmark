@@ -1,4 +1,4 @@
-# videostreaming Benchmark
+# Video Streaming Benchmark
 This project includes 100 video streams in standardized format and their transcoding information and merging efficiency info.
 
 Considering the widespread use of video format and convenience of video transcoding, we define the video standard format as follows: 
