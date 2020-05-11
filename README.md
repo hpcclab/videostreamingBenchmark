@@ -15,7 +15,7 @@ The standardized video format have the following specification:
   
 The dataset contains:
 
-  [1] Original version of video as collected (3.35GB) | [Google Drive](https://drive.google.com/drive/folders/1uereCYUqTqb602W9BFi-cjj-Gag-IFt9?usp=sharing)
+  [1] Original version of video as collected (3.20GB) | [Google Drive](https://drive.google.com/drive/folders/1uereCYUqTqb602W9BFi-cjj-Gag-IFt9?usp=sharing)
   
   [2] Video dataset in their original format splitted into multiple 2-second segments (2.40GB) | [Google Drive](https://drive.google.com/drive/folders/1MaEAN8TjuOhv9mH33j5L7nibxppriadQ?usp=sharing)
   
