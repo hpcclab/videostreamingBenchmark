@@ -1,7 +1,7 @@
 # Video Streaming Benchmark
 This project includes 100 video streams in standardized format and their transcoding information and merging efficiency info.
 
-Author: Shangrui Wu, Mohsen Amini Salehi, Chavit Denninnart, Xiangbo Li, Yang Wang
+Author: Shangrui Wu, Mohsen Amini Salehi, Chavit Denninnart, Xiangbo Li, Yang Wang //
 contact: wushangruide@gmail.com
 
 # Abstract
