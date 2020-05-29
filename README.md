@@ -1,7 +1,9 @@
 # Video Streaming Benchmark Dataset
 This repository includes 100 videos that are gathered in a variety of content diversity (i.e. fast/slow pace, action, scenery, animation etc.) All 100 videos are represented in [1] their original form, [2] 2-second splitted video segments and finally, [3] 2-second splitted video segments that converted into the standardized format. We also include their transcoding information and their task merging efficiency data. This dataset is collected for the project named "Evaluating and Predicting the Impact of MergingVideo Processing Micro-Services on CloudResource Usage".
 
-Author: Shangrui Wu, Mohsen Amini Salehi, Chavit Denninnart, Xiangbo Li, Yang Wang
+In addition, this repository also include scripts and the result of video transcoding benchmark on Chameleon Cloud small VM. Each video are transcoded in 4 operations (bit-rate changing, frame-rate changing, resolution changing and codec changing), with two parameters per operation. Each experiment is run 30-times. Both individual transcoding time and the parsed data (to mean and SD) are included.
+
+Author: Shangrui Wu, Chavit Denninnart, Mohsen Amini Salehi
 
 contact: wushangruide@gmail.com
 
