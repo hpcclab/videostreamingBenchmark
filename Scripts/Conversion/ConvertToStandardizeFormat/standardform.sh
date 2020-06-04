@@ -2,7 +2,7 @@ cd /mnt/d/Splits
 
 #Conversion to standardized format FR: 30, BR: 4500, RESO : 1280x720 CODEC: H.265
 
-for file in {33..100};do
+for file in {1..100};do
 	if [[ -d $file ]]; then
 		cd ./$file
 		for f in output{1..400}.ts;do 
