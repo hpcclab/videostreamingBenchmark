@@ -1,0 +1,5 @@
+This folder includes the video transcoding time for use with CVSE emulation mode. 
+Each record of the text file shows the mean and SD of execution time for transcoding only one parameter of a video segment. The content of the workload trace is summarized from the 30-times execution (raw data) that can be found in ../RawFormat/*/* folder
+
+Format:
+Operation, parameterNumber, videoNumber_segmentNumber ,mean,SD
