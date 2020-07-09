@@ -13,10 +13,15 @@ where inputfile and outputfile are path to the input and output files.
 OPTIONS are the specification to make change to the video
 
 OPTIONS example:
+
 -vf scale=1280:720      to change resolution to 1280x720
+
 -r 24                   to change framerate to 24fps
+
 -b:v 64k                to change bit rate to 64kbps
+
 -vf hue=s=0             to apply video filter setting hue and saturation=0 (make it black and white)
+
 -vcodec libx265         to changing codec of the video to h265
 
 there can be multiple options together, example:
