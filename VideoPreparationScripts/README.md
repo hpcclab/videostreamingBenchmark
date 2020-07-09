@@ -25,7 +25,7 @@ OPTIONS example:
 -vcodec libx265         to changing codec of the video to h265
 
 there can be multiple options together, example:
-ffmpeg -i INPUT.mp4 -vf scale=854:480 -r 24 -vcodec libx265 -acodec copy -copyts output${f}.ts -y
+ffmpeg -i INPUT.mp4 -vf scale=854:480 -r 24 -vcodec libx265 -acodec copy -copyts OUTPUT.ts -y
 
 # Video Splitting and Standardization
 Refers to Split_and_Standardize folder, there are two main ways to split video in multiple segments.
