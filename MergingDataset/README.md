@@ -1,4 +1,4 @@
-In this folder contains two sub folder: "Codec class" and "VIC class".
+In this folder contains three sub folder: "scripts, "Codec class" and "VIC class" according to the paper "Evaluating and Predicting the Impact of Merging Video Processing Micro-Services on CloudResource Usage".
 
 Codec class: contains 3 subfolders which each of them have two xls files that save the execution time of merged and non merged transcoding. Task merging in this case are performed with the same operation only. There is also "merge across operations.xls" which save the data from where tasks from multiple operations within VIC class are merged together.
 
