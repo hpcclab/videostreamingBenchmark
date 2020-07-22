@@ -46,7 +46,9 @@ ffmpeg -i 44.mp4 -profile:v baseline -level 3.0 -start_number 0 -hls_time 2 -hls
 However, there are two problems with the command above: (1) The segment aren't split at 2 seconds interval because there are no key frame available at that point of the original video. (2) It only work with some certain video format of the original video. Therefore, it is preferable to split video in two steps. First, the video are converted to suitable format (with key frame inserted regularly) as an intemediate file. Then we split the video from the intermediate file. 
 
 Therefore an exaple to split the video are:
+
 ffmpeg -y -i 44.mp4 tmp.mp4 -force_key_frames expr:'gte(t,n_forced*2)'
+
 ffmpeg -i tmp.mp4 -profile:v baseline -level 3.0 -start_number 0 -hls_time 2 -hls_list_size 0 -force_key_frames expr:'gte(t,n_forced*2)' -f hls video.m3u8
 
 This command is used in FFmpegAutomatedSplit/standardized_split.sh and FFmpegAutomatedSplit/originalformat_split.sh
