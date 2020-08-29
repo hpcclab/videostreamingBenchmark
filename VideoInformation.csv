@@ -1,131 +1,101 @@
-name,size (bytes),length (sec),num gop,Orignal name,,original codec,original resolution,original bit rate,original frame rate,,,
-1,7099294,35,18,20to26myth,,H.264,1280 Ã— 720,1488,30,,,
-2,105158632,24,12,160714_Pills_4_1080p,,H.264,1920 Ã— 1080,35921,25,,,
-3,59131763,11,6,161212_077_Vietnam_1080p96fps,,H.264,1920 Ã— 1080,42316,25,,,
-4,60693784,15,8,170111_053_Tokyo_BusyStreetNight_1080p,,H.264,1920 Ã— 1080,32538,25,,,
-5,50197094,11,6,170216A_120_RiverInForest3_1080p,,H.264,1920 Ã— 1080,37175,25,,,
-6,40046551,9,5,170216A_141_WomanWatchingWaterfall_1080p,,H.264,1920 Ã— 1080,36397,25,,,
-7,26428655,5,3,170216B_176_WaterfallInJungle2_1080p,,H.264,1920 Ã— 1080,38852,25,,,
-8,52488506,15,8,170411A_05_Blossom_1080p,,H.264,1920 Ã— 1080,26786,25,,,
-9,68795394,18,9,170411A_23_Blossom_1080p,,H.264,1920 Ã— 1080,31683,25,,,
-10,28286179,7,4,170422B_039_LemonTree_1080P,,H.264,1920 Ã— 1080,33131,25,,,
-11,42076642,8,5,170609_A_Delhi_070_1,,H.264,1920 Ã— 1080,41301,50,,,
-12,58450606,7,13,170609_B_DelhiJamaMasjid_055,,H.264,1920 Ã— 1080,37142,25,,,
-13,27647706,9,5,170609_F_Varanasi_050,,H.264,1920x1080,25986,25,,,
-14,33837492,8,4,170609_F_Varanasi_051,,H.264,1920x1080,36846,50,,,
-15,10412451,21,11,170728_Berlin_D_002,,H.264,1920x1080,42635,25,,,
-16,35331032,9,5,171124_A1_HD_021,,H.264,1920x1080,33319,25,,,
-17,71447044,15,8,171124_B1_HD_006,,H.264,1920x1080,37676,25,,,
-18,71495552,15,8,180301_09_A_KowloStreets_08,,H.264,3840x2160,39933,25,,,
-19,61888312,15,8,180301_22_B_Timelapses_11,,H.264,1920x1080,33535,25,,,
-20,64623045,37,19,506401051_1,,H.264,1280x720,14091,25,,,
-21,9491450,17,9,Autumn - 1990,,H.264,1280 Ã— 720,4548,23.98,,,
-22,27090188,80,40,Beach - 3998,,H.264,1280 Ã— 720,2459,25,,,
-23,11925031,39,20,Coast - 1270,,H.264,1280 Ã— 720,2486,25,,,
-24,5788048,129,65,DLP_PART_2_768k,,mpeg4,400x300,217,29.97,,,
-25,1944036,39,20,dolbycanyon,,mpeg4,720x480,264,29.97,,,
-26,8332908,14,7,Glass Ball By The Shore,,H.264,1920 Ã— 1080,4505,29.97,,,
-27,30404790,15,8,Grapes_1Videvo,,H.264,1920 Ã— 1080,15465,25,,,
-28,57844168,97,49,incredibles-2-trailer-1_h720p,,H.264,1280x544,4626,23.98,,,
-29,170309156,143,72,incredibles-2-trailer-2_h1080p,,H.264,1920x816,9348,23.98,,,
-30,1028984,27,14,grb_2,,mpeg4,720x480,287,29.97,,,
-31,17081511,13,7,hd0924,,H.264,1920 Ã— 1080,10269,30,,,
-32,6196078,10,6,High Angle Shot Of A Beautiful Island,,H.264,1920 Ã— 1080,4176,,,,
-33,286394914,73,39,Hong Kong - 2849,,H.264,3840x2160,29728,29.97,,,
-34,23230023,12,7,OldFashionedFilmLeaderCountdownVidevo,,H.264,1920 Ã— 1080,14333,24,,,
-35,60101538,9,5,Forest_15_4_Videvo,,H.264,1920 Ã— 1080,50285,25,,,
-36,16227846,51,26,Man Surfing,,H.264,1280 Ã— 720,2495,30,,,
-37,9027795,52,27,New Taiwanese Bubble Tea Shop With Flavoured Pearls â€“ Playmade,,H.264,1280 Ã— 720,1251,30,,,
-38,9027795,52,10,New York City Buildings-H264 75,,H.264,1280 Ã— 720,7850,50,,,
-39,901160,30,16,P6090053,,mpeg4,340x240,233,12.5,,,
-40,10435282,216,109,page18-movie-4,,mpeg4,480x270,425,25,,,
-41,11082532,46,24,Panasonic_HDC_TM_700_P_50i,,mpeg4,1920 Ã— 1080,1781,25,,,
-42,12102628,20,10,Pexels Videos 2567,,H.264,1920 Ã— 1080,4579,24,,,
-43,39175118,15,8,Run_5_wo_metadata_h264420_720p_UHQ,,H.264,1280 Ã— 720,20583,23.98,,,
-44,420593261,32,16,sample-Elysium.2013.2160p,,H.265,3840x1606,51036,23.98,,,
-45,21059259,362,182,SampleVideo_320x240_20mb.,,MPEG-4 ,340x240,395,25,,,
-46,31469062,548,275,SampleVideo_320x240_30mb,,mpeg4,320x240,389,25,,,
-47,6309722,11,6,Pexels Videos 2650,,H.264,320x240,4333,25,,,
-48,31503560,311,156,SampleVideo_360x240_30mb,,H.264,320x240,1018,25,,,
-49,5496299,10,5,Pexels Videos 2662,,H.264,1920 Ã— 1080,4389,23.98,,,
-50,7573476,13,7,Pexels Videos 3367,,H.264,1920 Ã— 1080,4429,30,,,
-51,9063522,13,8,Rain - 305,,H.264,1920 Ã— 1080,4540,30,,,
-52,7514855,52,27,Islands - 2119,,H.264,1920 Ã— 1080,1058,24,,,
-53,10727219,11,13,Islands - 2119,,mpeg4,1920 Ã— 1080,3386,29.97,,,
-54,11652104,30,16,jellyfish-25-mbps-hd-hevc,,H.264,1920 Ã— 1080,3096,23.98,,,
-55,22656105,17,9,Ship - 311,,H.264,1920 Ã— 1080,9981,24,,,
-56,278992,33,17,Ship - 311,,H.264,2500 x 1200,11956,29.97,,,
-57,119572396,214,108,you_gotta_wear_a_yukata_while_in_japan_1080p.mp4,,H.264,1920 Ã— 1080,4274,29.98,,,
-58,14146050,25,13,Light_Beer_Pouring_From_Beer_Bottle_2.mp4,,H.264,1920 Ã— 1080,4287,30,,,
-59,23805655,185,93,woman_keeps_finding_flowers_on_her_porch_then_she_finally_catches_her_secret_admirer_in_action_1080p.mp4,,H.264,1920 Ã— 1080,892,30,,,
-60,3900888,116,59,lion-sample,,MPEG-4 ,384 x 288,208,24,,,
-61,59177137,59,30,Raindrops_Videvo,,H.264,1920 Ã— 1080,8018,24,,,
-62,20985324,245,123,SampleVideo_360x240_20mb.mp4,,H.264,320x240,297,15,,,
-63,5251611,42,22,SampleVideo_640x360_5mb,,mpeg4,640 Ã— 360,923,25,,,
-64,21042737,128,65,SampleVideo_640x360_20mb(1),,mpeg4,640 Ã— 368,923,25,,,
-65,410162,5,3,small,,MPEG-4 ,560 Ã— 320,496,30,,,
-66,44256964,28,15,Snowy Trees - 7328,,H.264,3840 Ã— 2160,12239,30,,,
-67,27392902,16,8,SoundWaveAlphaMatteVidevo,,H.264 ,1280 Ã— 720,13690,25,,,
-68,2272148,21,11,star_trails,,MPEG-4 Video,1280 Ã— 720,712,25,,,
-69,18444727,27,14,Sunrise - 1844,,H.264,1920 Ã— 1080,5329,25,,,
-70,74850638,209,105,taiwanese_pancake_with_egg_dan_bng,,H.264,1920 Ã— 1080,2726,30,,,
-71,130220767,52,27,Wine_Country_3,,H.264,1920 Ã— 1080,19908,25,,,
-72,1161276,27,14,_test_ts,,MPEG-2,720 Ã— 480,337,30,,,
-73,55884750,217,79,how_to_cook_fried_noodles_in_chinese_wok_properly_1080p,,H.264,1920 Ã— 1080,2704,25,,,
-74,62509800,23,12,Tiger,,H.264,1920 Ã— 1080,21173,29.97,,,
-75,57659253,235,118,pointing_and_calling_japanese_safety_standard_at_railway_companies_toyota_hd_1080p,,H.264 ,1920 Ã— 1080,1821,29.97,,,
-76,69128192,16,9,TRA3106,,JPEG,720x496,32429,30,,,
-77,1505268,59,30,video-sample,,MPEG-4 ,320x240,1000,10,,,
-78,9046725,30,15,Volume_1.,,H.264,1920 Ã— 1080,2406,24,,,
-79,19662282,6,3,VUMetersWhitewithAlphaVidevo,,Run-length encoding,1920 Ã— 1080,26207,25,,,
-80,52643604,179,90,beautiful_beef_wellington_jamie_oliver_1080p,,H.264,1920 Ã— 1080,2212,25,,,
-81,37094938,178,60,japan_railways_jr_train_bahn_zug_vonat_vasut__ziu,,H.264,1920 Ã— 1080,2379,30,,,
-82,8399839,6,4,Easy Hawaiian BBQ Chicken Kabobs on the Grill,,H.264,1920 Ã— 1080,9815,25,,,
-83,10049762,59,30,Easy Hawaiian BBQ Chicken Kabobs on the Grill,,H.264,724 Ã— 720,1363,30,,,
-84,28793756,68,35,ESOcast 105 Light_ Starstruck by the Small Magellanic Cloud ,,H.264,1920 Ã— 1080,3244,25,,,
-85,17953398,86,44,ESOcast 171 Light_ Colourful Celestial Landscape (4K UHD),,H.264,1920 Ã— 1080,1523,25,,,
-86,16671239,90,46,ESOCast 183 Light_ Stunning Exoplanet Time-lapse (4K UHD),,H.264,1920 Ã— 1080,1338,25,,,
-87,14891817,129,65,How to Make Meatballs,,H.264,1280 x 720 ,918,30,,,
-88,53536568,121,61,sky_jump_experience_at_the_sky_tower_1080p,,H.264,1920 x 1080,4992,23.98,,,
-89,15072750,117,59,American Transportation 2018 _ Japan technology _ USA Technology _ New Technology 2018,,H.264,1280 x 720,1026,25,,,
-90,16044062,31,16,Argentina dove hunting with C&C Outfitters - Short video 2018,,H.264,1080 x 720,4134,25,,,
-91,1520776,31,16,Bao - A CGI Animated Short film by Pixar,,H.264,1280 Ã— 720,44100,24,,,
-92,"2,656,653",28,14,CHADHAL JAWANI RASGULLA _ NICE VIDEO _ SHORT VIDEO _ 3KVIDEOZ _ MUST WATCH _,,H.264,640 x 360,730,29.97,,,
-93,"7,101,921",21,11,DHURWA DAM AERIAL FOOTAGE SHORT VIDEO HD -RANCHI # SPORTS MODE,,H.264,1080 x 720,2379,23.77,,,
-94,"5,229,435",60,30,Food video_ Heart-shaped steamed eggs_Tiny Cooking _ Hobby Cook ,,H.264,1080 x 720,693,25,,,
-95,"11,324,429",96,47,Konnichiwa_ and _Sayonara_ in Japan,,H.264,854 x 480,946,23.98,,,
-96,"751,442",28,14,Lovely Cutest Short leg munchkin cat - kittens video,,H.264,426 x 240,206,30,,,
-97,"1,060,212",20,10,NAAYA SAAL MEIN TU RAHA HARIHAR _ NICE SHORT CLIPPED VIDEO _ 3KVIDEOZ _ MUST WATCH _,,H.264,426 x 240,395,29.97,,,
-98,"1,223,154",13,7,No Copyright Video - Sea View _ Landscape - short clip,,H.264,640 x 360,749,29.97,,,
-99,"2,553,078",29,15,Short Time-lapse Video of Stars including a Shooting Star,,H.264,1280 x 720,677,25,,,
-100,"3,162,090",19,10,short Video_ Start Saatkartoffelernte bei Kollege Bernhard,,H.264,854 x 480,1256,30,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,1
-,,,,,,,,,,,,2
-,,,,,,,,,,,,3
-,,,,,,,,,,,,4
-,,,,,,,,,,,,5
-,,,,,,,,,,,,6
-,,,,,,,,,,,,7
-,,,,,,,,,,,,8
-,,,,,,,,,,,,9
-,,,,,,,,,,,,10
-,,,,,,,,,,,,11
-,,,,,,,,,,,,12
+name,Pace,Categories,Labels,Specific,Orignal name,,original codec,original resolution,original bit rate,original frame rate
+1,Medium,Human,Daily,Show,20to26myth,,H.264,1280 × 720,1488,30
+2,Fast,Artifact,,Medicine,160714_Pills_4_1080p,,H.264,1920 × 1080,35921,25
+3,Slow,Human,Sport,Fishing,161212_077_Vietnam_1080p96fps,,H.264,1920 × 1080,42316,25
+4,Medium,Human,Daily,Street,170111_053_Tokyo_BusyStreetNight_1080p,,H.264,1920 × 1080,32538,25
+5,Slow,Nature,Geography,Stream,170216A_120_RiverInForest3_1080p,,H.264,1920 × 1080,37175,25
+6,Slow,Human,Daily,BackView,170216A_141_WomanWatchingWaterfall_1080p,,H.264,1920 × 1080,36397,25
+7,Slow,Nature,Geography,Waterfall,170216B_176_WaterfallInJungle2_1080p,,H.264,1920 × 1080,38852,25
+8,Slow,Nature,Plant,Sakura,170411A_05_Blossom_1080p,,H.264,1920 × 1080,26786,25
+9,Medium,Human,Daily,Park,170411A_23_Blossom_1080p,,H.264,1920 × 1080,31683,25
+10,Slow,Nature,Plant,Orange,170422B_039_LemonTree_1080P,,H.264,1920 × 1080,33131,25
+11,Medium,Artifact,,Temple,170609_A_Delhi_070_1,,H.264,1920 × 1080,41301,50
+12,Slow,Artifact,,Building,170609_B_DelhiJamaMasjid_055,,H.264,1920 × 1080,37142,25
+13,Slow,Animal,,Monkey,170609_F_Varanasi_050,,H.264,1920x1080,25986,25
+14,Medium,Animal,,Monkey,170609_F_Varanasi_051,,H.264,1920x1080,36846,50
+15,Medium,Artifact,,Flag,170728_Berlin_D_002,,H.264,1920x1080,42635,25
+16,Medium,Human,Daily,Walking,171124_A1_HD_021,,H.264,1920x1080,33319,25
+17,Medium,Human,Daily,Walking,171124_B1_HD_006,,H.264,1920x1080,37676,25
+18,Medium,Human,Daily,Street,180301_09_A_KowloStreets_08,,H.264,3840x2160,39933,25
+19,Slow,Artifact,,City,180301_22_B_Timelapses_11,,H.264,1920x1080,33535,25
+20,Medium,Nature,Universe,Earth,506401051_1,,H.264,1280x720,14091,25
+21,Slow,Nature,Plant,Flower,Autumn - 1990,,H.264,1280 × 720,4548,23.98
+22,Medium,Nature,Geography,Island,Beach - 3998,,H.264,1280 × 720,2459,25
+23,Medium,Nature,Geography,Coast,Coast - 1270,,H.264,1280 × 720,2486,25
+24,Medium,Human,Daily,Speech,DLP_PART_2_768k,,mpeg4,400x300,217,29.97
+25,Fast,Animation,,Canyon,dolbycanyon,,mpeg4,720x480,264,29.97
+26,Slow,Nature,Weather,Sunset,Glass Ball By The Shore,,H.264,1920 × 1080,4505,29.97
+27,Medium,Nature,Plant,Grape,Grapes_1Videvo,,H.264,1920 × 1080,15465,25
+28,Fast,Animation,,Incredibles 2,incredibles-2-trailer-1_h720p,,H.264,1280x544,4626,23.98
+29,Fast,Animation,,Incredibles 2,incredibles-2-trailer-2_h1080p,,H.264,1920x816,9348,23.98
+30,Fast,Nature,Universe,Meteor,grb_2,,mpeg4,720x480,287,29.97
+31,Fast,Animation,,Earth,hd0924,,H.264,1920 × 1080,10269,30
+32,Slow,Nature,Geography,Coast,High Angle Shot Of A Beautiful Island,,H.264,1920 × 1080,4176,
+33,Slow,Artifact,,CuriseShip,Hong Kong - 2849,,H.264,3840x2160,29728,29.97
+34,Medium,Animation,,Countdown,OldFashionedFilmLeaderCountdownVidevo,,H.264,1920 × 1080,14333,24
+35,Medium,Nature,Geography,Forest,Forest_15_4_Videvo,,H.264,1920 × 1080,50285,25
+36,Fast,Human,Sport,Suring,Man Surfing,,H.264,1280 × 720,2495,30
+37,Fast,Human,Daily,Shoping,New Taiwanese Bubble Tea Shop With Flavoured Pearls ? Playmade,,H.264,1280 × 720,1251,30
+38,Fast,Artifact,,Street,New York City Buildings-H264 75,,H.264,1280 × 720,7850,50
+39,Medium,Human,Sport,Dance,P6090053,,mpeg4,340x240,233,12.5
+40,Slow,Animation,,Eyeball,page18-movie-4,,mpeg4,480x270,425,25
+41,Slow,Artifact,,Toy,Panasonic_HDC_TM_700_P_50i,,mpeg4,1920 × 1080,1781,25
+42,Slow,Nature,Geography,Sea,Pexels Videos 2567,,H.264,1920 × 1080,4579,24
+43,Fast,Artifact,,Traffic,Run_5_wo_metadata_h264420_720p_UHQ,,H.264,1280 × 720,20583,23.98
+44,Medium,Artifact,,SpaceStation,sample-Elysium.2013.2160p,,H.265,3840x1606,51036,23.98
+45,Medium,Animation,,BigBuckBunny,SampleVideo_320x240_20mb.,,MPEG-4 ,340x240,395,25
+46,Medium,Animation,,BigBuckBunny,SampleVideo_320x240_30mb,,mpeg4,320x240,389,25
+47,Slow,Nature,Geography,Coast,Pexels Videos 2650,,H.264,320x240,4333,25
+48,Medium,Animation,,BigBuckBunny,SampleVideo_360x240_30mb,,H.264,320x240,1018,25
+49,Slow,Nature,Geography,Coast,Pexels Videos 2662,,H.264,1920 × 1080,4389,23.98
+50,Slow,Human,Sport,RideMotorcycle,Pexels Videos 3367,,H.264,1920 × 1080,4429,30
+51,Medium,Nature,Weather,Thunderstorm,Rain - 305,,H.264,1920 × 1080,4540,30
+52,Medium,Animation,,Incredibles 2,Islands - 2119,,H.264,1920 × 1080,1058,24
+53,Slow,Nature,Geography,Island,Islands - 2119,,mpeg4,1920 × 1080,3386,29.97
+54,Slow,Animal,,Jellyfish,jellyfish-25-mbps-hd-hevc,,H.264,1920 × 1080,3096,23.98
+55,Slow,Nature,Plant,Tree,Ship - 311,,H.264,1920 × 1080,9981,24
+56,Medium,Animation,,Sailboat,Ship - 311,,H.264,2500 x 1200,11956,29.97
+57,Medium,Human,Daily,Travel,you_gotta_wear_a_yukata_while_in_japan_1080p.mp4,,H.264,1920 × 1080,4274,29.98
+58,Slow,Artifact,,Beer,Light_Beer_Pouring_From_Beer_Bottle_2.mp4,,H.264,1920 × 1080,4287,30
+59,Medium,Animation,,Lion,woman_keeps_finding_flowers_on_her_porch_then_she_finally_catches_her_secret_admirer_in_action_1080p.mp4,,H.264,1920 × 1080,892,30
+60,Slow,Animal,,Cat,lion-sample,,MPEG-4 ,384 x 288,208,24
+61,Medium,Nature,Weather,Rain,Raindrops_Videvo,,H.264,1920 × 1080,8018,24
+62,Medium,Animation,,BigBuckBunny,SampleVideo_360x240_20mb.mp4,,H.264,320x240,297,15
+63,Medium,Animation,,BigBuckBunny,SampleVideo_640x360_5mb,,mpeg4,640 × 360,923,25
+64,Medium,Animation,,BigBuckBunny,SampleVideo_640x360_20mb(1),,mpeg4,640 × 368,923,25
+65,Slow,Artifact,,Lego,small,,MPEG-4 ,560 × 320,496,30
+66,Medium,Nature,Weather,Snow,Snowy Trees - 7328,,H.264,3840 × 2160,12239,30
+67,Fast,Artifact,,Signal,SoundWaveAlphaMatteVidevo,,H.264 ,1280 × 720,13690,25
+68,Fast,Nature,Universe,MeteorShower,star_trails,,MPEG-4 Video,1280 × 720,712,25
+69,Medium,Nature,Weather,Cloud,Sunrise - 1844,,H.264,1920 × 1080,5329,25
+70,Medium,Human,,Cooking,taiwanese_pancake_with_egg_dan_bng,,H.264,1920 × 1080,2726,30
+71,Slow,Nature,Plant,Sapling,Wine_Country_3,,H.264,1920 × 1080,19908,25
+72,Fast,Nature,Universe,Meteor,_test_ts,,MPEG-2,720 × 480,337,30
+73,Medium,Human,,Cooking,how_to_cook_fried_noodles_in_chinese_wok_properly_1080p,,H.264,1920 × 1080,2704,25
+74,Slow,Animal,,Tiger,Tiger,,H.264,1920 × 1080,21173,29.97
+75,Medium,Artifact,,Metro,pointing_and_calling_japanese_safety_standard_at_railway_companies_toyota_hd_1080p,,H.264 ,1920 × 1080,1821,29.97
+76,Medium,Artifact,,Car,TRA3106,,JPEG,720x496,32429,30
+77,Slow,Artifact,,Clock,video-sample,,MPEG-4 ,320x240,1000,10
+78,Slow,Artifact,,Displayer,Volume_1.,,H.264,1920 × 1080,2406,24
+79,Fast,Artifact,,Displayer,VUMetersWhitewithAlphaVidevo,,Run-length encoding,1920 × 1080,26207,25
+80,Medium,Human,,Cooking,beautiful_beef_wellington_jamie_oliver_1080p,,H.264,1920 × 1080,2212,25
+81,Medium,Human,Daily,Drive,japan_railways_jr_train_bahn_zug_vonat_vasut__ziu,,H.264,1920 × 1080,2379,30
+82,Fast,Nature,Universe,Earth,Easy Hawaiian BBQ Chicken Kabobs on the Grill,,H.264,1920 × 1080,9815,25
+83,Medium,Human,,Cooking,Easy Hawaiian BBQ Chicken Kabobs on the Grill,,H.264,724 × 720,1363,30
+84,Slow,Nature,Universe,Galaxy,ESOcast 105 Light_ Starstruck by the Small Magellanic Cloud ,,H.264,1920 × 1080,3244,25
+85,Medium,Nature,Universe,Galaxy,ESOcast 171 Light_ Colourful Celestial Landscape (4K UHD),,H.264,1920 × 1080,1523,25
+86,Medium,Nature,Universe,Galaxy,ESOCast 183 Light_ Stunning Exoplanet Time-lapse (4K UHD),,H.264,1920 × 1080,1338,25
+87,Medium,Human,,Cooking,How to Make Meatballs,,H.264,1280 x 720 ,918,30
+88,Medium,Human,Sport,Bungee,sky_jump_experience_at_the_sky_tower_1080p,,H.264,1920 x 1080,4992,23.98
+89,Medium,Animation,,FutureCity,American Transportation 2018 _ Japan technology _ USA Technology _ New Technology 2018,,H.264,1280 x 720,1026,25
+90,Fast,Human,Sport,Hunting,Argentina dove hunting with C&C Outfitters - Short video 2018,,H.264,1080 x 720,4134,25
+91,Medium,Animation,,Bao,Bao - A CGI Animated Short film by Pixar,,H.264,1280 × 720,44100,24
+92,Fast,Human,Sport,Dance,CHADHAL JAWANI RASGULLA _ NICE VIDEO _ SHORT VIDEO _ 3KVIDEOZ _ MUST WATCH _,,H.264,640 x 360,730,29.97
+93,Medium,Artifact,,Dam,DHURWA DAM AERIAL FOOTAGE SHORT VIDEO HD -RANCHI # SPORTS MODE,,H.264,1080 x 720,2379,23.77
+94,Medium,Human ,,Cooking,Food video_ Heart-shaped steamed eggs_Tiny Cooking _ Hobby Cook ,,H.264,1080 x 720,693,25
+95,Medium,Human,Daily,Talking,Konnichiwa_ and _Sayonara_ in Japan,,H.264,854 x 480,946,23.98
+96,Medium,Animal,,Cat,Lovely Cutest Short leg munchkin cat - kittens video,,H.264,426 x 240,206,30
+97,Medium,Human,Sport,Dance,NAAYA SAAL MEIN TU RAHA HARIHAR _ NICE SHORT CLIPPED VIDEO _ 3KVIDEOZ _ MUST WATCH _,,H.264,426 x 240,395,29.97
+98,Slow,Nature,Geography,Coast,No Copyright Video - Sea View _ Landscape - short clip,,H.264,640 x 360,749,29.97
+99,Slow,Nature,Universe,Star,Short Time-lapse Video of Stars including a Shooting Star,,H.264,1280 x 720,677,25
+100,Medium,Human,Daily,Farming,short Video_ Start Saatkartoffelernte bei Kollege Bernhard,,H.264,854 x 480,1256,30
