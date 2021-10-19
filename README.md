@@ -33,6 +33,7 @@ https://drive.google.com/drive/folders/1KhsxZtC22L-EHoeXmsdmWpkuNZpmS-pL?usp=sha
 [4] Video dataset uniformly formatted and split into multiple 2-second segments to be HLS player-compatible (2.0GB) | Google Drive https://drive.google.com/drive/folders/1MKeNOcfzrWl9kUNp26F-5eFm4qwhpjsE?usp=sharing
 
 
+# Citation and Acknowledgement:
 
 If you are using this dataset, please refer and cite to the following paper: 
 
