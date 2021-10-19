@@ -34,9 +34,10 @@ https://drive.google.com/drive/folders/1KhsxZtC22L-EHoeXmsdmWpkuNZpmS-pL?usp=sha
 
 
 
-If you are using this dataset, please refer to the following paper: 
+If you are using this dataset, please refer and cite to the following paper: 
 
-.... (link to the benchmark paper).
+Descriptive and Predictive Analysis of Aggregating Functions in Serverless Clouds: the Case of Video Streaming 
+(http://hpcclab.org/paperPdf/hpcc20shangrui/HPCC2020-Merging.pdf).
 
 List of works using this dataset: 
 
