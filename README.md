@@ -42,4 +42,4 @@ Descriptive and Predictive Analysis of Aggregating Functions in Serverless Cloud
 
 List of works using this dataset: 
 
-.... (list all papers using this dataset)
+1) Chavit Denninnart, Mohsen Amini Salehi, “Harnessing the Potential of Function-Reuse in Multimedia Cloud Systems”, IEEE Transactions on Parallel and Distributed Systems (TPDS), Volume 33, Issue 3, Pages: 617– 629, Mar. 2022
