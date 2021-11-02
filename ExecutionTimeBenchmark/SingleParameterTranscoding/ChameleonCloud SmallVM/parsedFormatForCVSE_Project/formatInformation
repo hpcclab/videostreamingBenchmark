@@ -7,7 +7,17 @@ Operation, parameterNumber (0/1), videoNumber_segmentNumber, mean execution time
 
 In the above format:
 **ParameterNumber** represents the specification of the destination format. 
-For instance, 0 for Resolution means converting the source video format to 1080p amd 1 for Resolution means 360p
+Resolution 0 means converting the source video format to 1080p 
+Resolution 1 means 360p
+
+Frame Rate 0 means 60 fps
+Frame Rate 1 means 24 fps
+
+Bit Rate 0 means 3400 bps
+Bit Rate 1 means 2400 bps
+
+Codec 0 means H.264
+Codec 1 means VP9
 
 **videoNumber_segmentNumber** represents the video number and the segment within that.
 For instance, 1_10 means video number 1 and segment#10
