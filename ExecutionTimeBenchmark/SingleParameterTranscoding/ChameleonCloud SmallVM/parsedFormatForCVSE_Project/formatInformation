@@ -3,7 +3,7 @@ Each record of the text file shows the mean and SD of execution time for transco
 The content of the workload trace is summarized from the 30-times execution (raw data) that can be found in ../RawFormat/*/* folder.
 
 The format in each row of the trace is as follows:
-Operation, parameterNumber (0/1), videoNumber_segmentNumber ,mean (milli-second),SD
+Operation, parameterNumber (0/1), videoNumber_segmentNumber, mean execution time (milli-second),SD (execution time standard deviation)
 
 In the above format:
 **ParameterNumber** represents the specification of the destination format. 
