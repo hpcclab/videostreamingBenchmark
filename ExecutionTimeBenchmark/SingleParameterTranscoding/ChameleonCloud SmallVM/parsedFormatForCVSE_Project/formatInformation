@@ -1,5 +1,13 @@
 This folder includes the video transcoding time for use with CVSE emulation mode. 
-Each record of the text file shows the mean and SD of execution time for transcoding only one parameter of a video segment. The content of the workload trace is summarized from the 30-times execution (raw data) that can be found in ../RawFormat/*/* folder
+Each record of the text file shows the mean and SD of execution time for transcoding only one parameter of a video segment. 
+The content of the workload trace is summarized from the 30-times execution (raw data) that can be found in ../RawFormat/*/* folder.
 
-Format:
-Operation, parameterNumber, videoNumber_segmentNumber ,mean,SD
+The format in each row of the trace is as follows:
+Operation, parameterNumber (0/1), videoNumber_segmentNumber ,mean (milli-second),SD
+
+In the above format:
+**ParameterNumber** represents the specification of the destination format. 
+For instance, 0 for Resolution means converting the source video format to 1080p amd 1 for Resolution means 360p
+
+**videoNumber_segmentNumber** represents the video number and the segment within that.
+For instance, 1_10 means video number 1 and segment#10
